@@ -1,5 +1,8 @@
 # BGBye
 
+Notice of fork: This fork is only here because I wanted to split out the Bria background removal code into a standalone python script. Note the additional folder for that. You can batch edit a folder of pictures all at once.
+
+
 ## Installation
 
 ### Prerequisites
