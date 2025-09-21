@@ -32,6 +32,12 @@ This folder contains everything you need to run batch background removal as a st
    python batch_background_remover.py input_folder output_folder
    ```
 
+6. **Optional - Install globally:**
+   ```bash
+   ./install.sh
+   # Then use: bgremove input_folder output_folder
+   ```
+
 ## 📖 Documentation
 
 - See `README_batch.md` for comprehensive documentation
